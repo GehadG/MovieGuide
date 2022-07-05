@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDirectory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_movies">Top Movies</string>
+    <string name="search_results">Search Results</string>
+</resources>
